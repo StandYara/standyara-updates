@@ -4,10 +4,10 @@
   "websiteUrl": "https://reforgedstudio.onreza.app/",
   "telegramUrl": "https://t.me/ReforgedStudio",
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "ТЕХНИЧЕСКИЙ ПЕРЕРЫВ",
     "message": "Мы сверяем и перерабатываем экономику StandYara. Спасибо за ожидание!",
-    "endsAt": "2026-10-03T23:00:00+03:00",
+    "endsAt": "2026-10-05T27:00:00+03:00",
     "news": [
       {
         "title": "Улучшение ботов",
