@@ -1,6 +1,6 @@
 {
-  "minBuild": 3,
-  "latestVersion": "2.2",
+  "minBuild": 1,
+  "latestVersion": "2.1.1",
   "websiteUrl": "https://reforgedstudio.onreza.app/",
   "telegramUrl": "https://t.me/ReforgedStudio",
   "maintenance": {
