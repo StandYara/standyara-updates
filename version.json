@@ -26,5 +26,9 @@
     "name": "Сезон 1",
     "startingMmr": 400,
     "startsAt": ""
+  },
+  "verification": {
+    "managed": true,
+    "playerIds": []
   }
 }
