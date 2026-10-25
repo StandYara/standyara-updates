@@ -29,6 +29,6 @@
   },
   "verification": {
     "managed": true,
-    "playerIds": ["DEV_01", 10000000]
+    "playerIds": [10000000]
   }
 }
