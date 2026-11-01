@@ -29,6 +29,7 @@
   },
   "verification": {
     "managed": true,
-    "playerIds": [75949309, 11729194]
+    "playerIds": [75949309, 11729194, 10000000]
   }
 }
+
